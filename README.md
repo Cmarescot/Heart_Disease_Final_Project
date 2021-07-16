@@ -1,10 +1,10 @@
 # Heart Disease Final Project
 
-## Reason why they selected their topic 
+## Why we chose our topic 
 We wanted to analyze data about heart disease to see if there was a way to predict who and who does not have heart disease based on certain criterias such as age, sex, cholestorol levels etc.
-## Description of their source of data
+## Source of data
 Our data (the Cleaveland Heart Disease dataset) was obtained from the UCI repository.
-## Questions they hope to answer with the data
+## Questions we hope to answer
 With this data we hope to predict heart disease in patients and discover possible trends and coorelations with heart disease and certain criterias. 
 
 ## Data Exploration 
