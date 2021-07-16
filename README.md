@@ -15,7 +15,7 @@ We dealt with those null values my taking the mean of the values in that column 
 
 ## Machine Learning 
 ### Machine Learning Model
-We chose to use a Random Forest as out machine learning model. We made this descision because we wanted to get the highest possibly accuracy score. In order to do this we also increased the number of trees from 10 to 100 which kept the accuracy score in the high 80s instead of the low 80s.
+We chose to use a Random Forest as our machine learning model. We made this descision because we wanted to get the highest possibly accuracy score. In order to do this we also increased the number of trees from 10 to 100 which kept the accuracy score in the high 80s instead of the low 80s.
 Our current accuracy score is 86.88%
 // limitaions of random forest model
 ### Spliting the data
