@@ -26,8 +26,7 @@ We used PgAdmin to create a database for our data and then imported the data fro
 // insert ERD relationships?
 
 ## Dashboard 
-For our final dashboard, we have chosen to use Tableau Story. We are currently planning to have 4 graphs from our data.
-The link to our dashboard can be found here: https://public.tableau.com/shared/MS36YCW7T?:display_count=n&:origin=viz_share_link. 
+For our final dashboard, we have chosen to use Tableau Story. We have 2 graphs from our data. One graph shows the variation of heart disease by age and the other shows the variation by gender. Our interactive element is a filter on the variation by age graph for the factor gender. The graphs are also color coded based on heart disease being present or not. The link to our dashboard can be found here: https://public.tableau.com/shared/MS36YCW7T?:display_count=n&:origin=viz_share_link.
 
 ## Google slide presentation
 // link to google slide presentation 
