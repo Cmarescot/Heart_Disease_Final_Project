@@ -23,7 +23,8 @@ We split the data by cloning the clean data and dropping the target column in or
 
 ## Database
 We used PgAdmin to create a database for our data and then imported the data from PgAdmin to our jupyter notebook file where are analysis was to be performed.
-// insert ERD relationships?
+
+![ERD relationships](https://github.com/Cmarescot/Heart_Disease_Final_Project/blob/Circle/heart-disease-ERD.png)
 
 ## Dashboard 
 For our final dashboard, we have chosen to use Tableau Story. We have 2 graphs from our data. One graph shows the variation of heart disease by age and the other shows the variation by gender. Our interactive element is a filter on the variation by age graph for the factor gender. The graphs are also color coded based on heart disease being present or not. The link to our dashboard can be found here: https://public.tableau.com/shared/MS36YCW7T?:display_count=n&:origin=viz_share_link.
