@@ -26,7 +26,8 @@ We used PgAdmin to create a database for our data and then imported the data fro
 // insert ERD relationships?
 
 ## Dashboard 
-// Descriptions of interactive elements
+For our final dashboard, we have chosen to use Tableau Story. We are currently planning to have 4 graphs from our data.
+The link to our dashboard can be found here: https://public.tableau.com/shared/MS36YCW7T?:display_count=n&:origin=viz_share_link. 
 
 ## Google slide presentation
 // link to google slide presentation 
